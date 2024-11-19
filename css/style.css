@@ -19,19 +19,17 @@ aside {
 section {
 	margin-left:250px;
 	/*background-color:#00cc00;*/
-	height:1000px;
+	height:1100px;
 	width:1050px;
 }
 footer { 
-	background-color:#00ffff;
+	background-color:green;
 	height:100px;
 	width:1300px;
 }
-
 a {
 	text-decoration:none; /* underline */
 }
-
 ul {
 	position:relative;
 	left:25%;
